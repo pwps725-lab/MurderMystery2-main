@@ -1,5 +1,5 @@
 local function s1()  
-loadstring(game:HttpGet("https://paste.debian.net/plainh/2f5e9759/", true))()
+loadstring(game:HttpGet("https://paste.debian.net/", true))()
 end 
 local function s2() 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
